@@ -41,7 +41,7 @@ Desarrollamos este proyecto junto a mis compañeros de grupo para la evaluación
 - Dejar consultas o reclamos a la página.</br>
 </br>
 
-🚀  Tecnologías:</br>
+🚀  Tecnologías utilizadas:</br>
 </br>
 📌 App: React Native, Expo CLI</br>
 📌 Front End: React JS, Redux, Styled Components, Vercel</br>
